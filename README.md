@@ -1,16 +1,14 @@
-### Hi there 👋
+#### I'm Mauricio Alejandro, a software engineering student specializing in Back-End with the languages ​​of JavaScript, Python with Django, TypeScript & Php
 
-<!--
-**AlejandroMauri12/AlejandroMauri12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm 21 years old.
 
-Here are some ideas to get you started:
+![AlejandroMauri12 GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejandroMauri12&show_icons=true&theme=transparent)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs]https://github.com/Mauricio1932/201227_ProyectoDjango
+
+[![Readme Card]https://github.com/Mauricio1932/RepositorioInstitucional
+
+[![Readme Card]https://github.com/Mauricio1932/201227_Client
+
+
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
